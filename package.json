@@ -1,9 +1,8 @@
 {
-  "name": "John_Doe",
+  "name": "Asish Tony Mulaguri",
   "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "description": "Personal portfolio Website",
   "main": "gulpfile.js",
-  "author": "DevCRUD",
   "scripts": {
     "start": "gulp"
   },
